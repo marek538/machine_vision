@@ -1,3 +1,5 @@
+This repository showcases three interesting projects developed as part of a Machine Vision course, demonstrating practical applications of image processing, perspective geometry, and spatial analysis.
+
 # 1) Depth Map Spatial Analysis
 
 ## Problem
